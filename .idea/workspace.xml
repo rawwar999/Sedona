@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/less/gallery/blocks/page-main.less" description=".photo__one{" line="542" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a6791d7-315f-49eb-856a-4465276b1cfd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/photo.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HTML_Academy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+              <folding>
+                <element signature="e#436#748#0" expanded="false" />
+                <element signature="e#1316#1550#0" expanded="false" />
+                <element signature="e#2176#2441#0" expanded="false" />
+                <element signature="e#2460#2731#0" expanded="false" />
+                <element signature="e#2750#2921#0" expanded="false" />
+                <element signature="e#2773#2911#0" expanded="false" />
+                <element signature="e#2937#3399#0" expanded="false" />
+                <element signature="e#3415#3455#0" expanded="false" />
+                <element signature="e#3476#4227#0" expanded="false" />
+                <element signature="e#4246#4588#0" expanded="false" />
+                <element signature="e#4605#5158#0" expanded="false" />
+                <element signature="e#5175#5363#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-footer.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less/form/blocks/page-footer.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-footer.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less/main/blocks/page-footer.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page-footer.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less/gallery/blocks/page-footer.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1667">
+              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gallery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Gallery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Form.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>info__caption1</find>
+      <find>text-in</find>
+      <find>info</find>
+      <find>main__text</find>
+      <find>info__text</find>
+      <find>after</find>
+      <find>grunt</find>
+      <find>gre</find>
+      <find>gree</find>
+      <find>green</find>
+      <find>url</find>
+      <find>logo</find>
+      <find>text-index</find>
+      <find>text</find>
+      <find>main__photo-text</find>
+      <find>.main .main__wrapper .main__photo-text</find>
+      <find>style/img/text-index.png</find>
+      <find>style</find>
+      <find>img/icon</find>
+      <find>.info__caption1:before</find>
+      <find>.menu .menu__close</find>
+      <find>border-bottom:</find>
+      <find>padding-left:</find>
+      <find>form__con</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gallery page/less/blocks/main-nav.less" />
+        <option value="$PROJECT_DIR$/form page/less/blocks/main-nav.less" />
+        <option value="$PROJECT_DIR$/form page/less/blocks/page-footer.less" />
+        <option value="$PROJECT_DIR$/gallery page/less/blocks/page-footer.less" />
+        <option value="$PROJECT_DIR$/gallery page/style/img/fullscreen-hover.svg" />
+        <option value="$PROJECT_DIR$/gallery page/style/img/replay-down.svg" />
+        <option value="$PROJECT_DIR$/gallery page/style/img/subtitles-hover.svg" />
+        <option value="$PROJECT_DIR$/gallery page/style/img/replay-hover.svg" />
+        <option value="$PROJECT_DIR$/main page/index.html" />
+        <option value="$PROJECT_DIR$/form page/form.html" />
+        <option value="$PROJECT_DIR$/main page/less/blocks/main-nav.less" />
+        <option value="$PROJECT_DIR$/main page/less/style.less" />
+        <option value="$PROJECT_DIR$/form page/less/blocks/page-main.less" />
+        <option value="$PROJECT_DIR$/form page/less/blocks/page-header.less" />
+        <option value="$PROJECT_DIR$/main page/style/img/icon-menu.svg" />
+        <option value="$PROJECT_DIR$/main page/bundle.css" />
+        <option value="$PROJECT_DIR$/gallery page/photo.html" />
+        <option value="$PROJECT_DIR$/gallery page/style/img/logotyle-mobile.svg" />
+        <option value="$PROJECT_DIR$/gallery page/less/blocks/page-main.less" />
+        <option value="$PROJECT_DIR$/gallery page/less/blocks/page-header.less" />
+        <option value="$PROJECT_DIR$/main page/less/blocks/page-header.less" />
+        <option value="$PROJECT_DIR$/gallery page/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/main page/package.json" />
+        <option value="$PROJECT_DIR$/main page/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="D:/Programming/Gruntfile-самый первый.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/less/form/blocks/page-footer.less" />
+        <option value="$PROJECT_DIR$/less/gallery/style.less" />
+        <option value="$PROJECT_DIR$/less/main/style.less" />
+        <option value="$PROJECT_DIR$/less/form/style.less" />
+        <option value="$PROJECT_DIR$/css/main.bundle.min.css" />
+        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/main.html" />
+        <option value="$PROJECT_DIR$/less/main/blocks/page-header.less" />
+        <option value="$PROJECT_DIR$/less/gallery/blocks/page-header.less" />
+        <option value="$PROJECT_DIR$/less/form/blocks/page-header.less" />
+        <option value="$PROJECT_DIR$/js/Gallery.js" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/Form.js" />
+        <option value="$PROJECT_DIR$/form.html" />
+        <option value="$PROJECT_DIR$/less/form/blocks/main-nav.less" />
+        <option value="$PROJECT_DIR$/less/main/blocks/page-main.less" />
+        <option value="$PROJECT_DIR$/less/form/blocks/page-main.less" />
+        <option value="$PROJECT_DIR$/less/gallery/blocks/page-main.less" />
+        <option value="$PROJECT_DIR$/less/gallery/blocks/main-nav.less" />
+        <option value="$PROJECT_DIR$/less/main/blocks/main-nav.less" />
+        <option value="$PROJECT_DIR$/less/main/blocks/page-footer.less" />
+        <option value="$PROJECT_DIR$/less/gallery/blocks/page-footer.less" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER">
+    <gruntfile path="$PROJECT_DIR$/Gruntfile.js">
+      <alias-task name="main" info="Alias for &quot;less&quot;, &quot;postcss&quot;, &quot;csso&quot;, &quot;watch&quot; tasks." file-path="$PROJECT_DIR$/Gruntfile.js">
+        <dependency value="less" />
+        <dependency value="postcss" />
+        <dependency value="csso" />
+        <dependency value="watch" />
+      </alias-task>
+      <core-task name="less" info="Compile LESS files to CSS" file-path="$PROJECT_DIR$/node_modules/grunt-contrib-less/tasks/less.js" multi="true">
+        <target value="compileLESS" />
+      </core-task>
+      <core-task name="postcss" info="Process CSS files." file-path="$PROJECT_DIR$/node_modules/grunt-postcss/tasks/postcss.js" multi="true">
+        <target value="style" />
+      </core-task>
+      <core-task name="watch" info="Run predefined tasks whenever watched files change." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-watch/tasks/watch.js" multi="false">
+        <target value="watchLESS" />
+      </core-task>
+      <core-task name="csso" info="Minify CSS files with CSSO." file-path="$PROJECT_DIR$/node_modules/grunt-csso/tasks/csso.js" multi="true">
+        <target value="compress" />
+      </core-task>
+      <core-task name="imagemin" info="Minify PNG, JPEG, GIF and SVG images" file-path="$PROJECT_DIR$/node_modules/grunt-contrib-imagemin/tasks/imagemin.js" multi="true">
+        <target value="images" />
+      </core-task>
+      <core-task name="svgstore" info="Merge SVGs from a folder." file-path="$PROJECT_DIR$/node_modules/grunt-svgstore/tasks/svgstore.js" multi="true">
+        <target value="optionsP" />
+        <target value="symbols" />
+      </core-task>
+      <core-task name="svgmin" info="Minify SVG" file-path="$PROJECT_DIR$/node_modules/grunt-svgmin/tasks/svgmin.js" multi="true">
+        <target value="symbols" />
+      </core-task>
+      <core-task name="copy" info="Copy files." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-copy/tasks/copy.js" multi="true">
+        <target value="build" />
+      </core-task>
+      <core-task name="clean" info="Clean files and folders." file-path="$PROJECT_DIR$/node_modules/grunt-contrib-clean/tasks/clean.js" multi="true">
+        <target value="build" />
+      </core-task>
+      <core-task name="pagespeed" info="Run Pagespeed Insights" file-path="$PROJECT_DIR$/node_modules/grunt-pagespeed/tasks/pagespeed.coffee" multi="true">
+        <target value="prod" />
+        <target value="paths" />
+      </core-task>
+      <core-task name="webpcss" info="Process css file to generate addition css ruless to add webp compatble" file-path="$PROJECT_DIR$/node_modules/grunt-webpcss/tasks/webpcss.js" multi="true">
+        <target value="task" />
+      </core-task>
+      <core-task name="cwebp" info="Convert JPG, PNG to WebP with grunt task." file-path="$PROJECT_DIR$/node_modules/grunt-cwebp/tasks/cwebp.js" multi="true">
+        <target value="static" />
+        <target value="dynamic" />
+      </core-task>
+      <core-task name="uncss" info="Remove unused CSS" file-path="$PROJECT_DIR$/node_modules/grunt-uncss/tasks/uncss.js" multi="true">
+        <target value="dist" />
+      </core-task>
+    </gruntfile>
+  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-58" />
+    <option name="y" value="23" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HTML_Academy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML_Academy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/untitled" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="$USER_HOME$/AppData/Roaming/npm/node_modules/grunt-cli" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\HTML_Academy\form page" />
+      <recent name="D:\Git\HTML_Academy\main page" />
+      <recent name="D:\Git\HTML_Academy\style" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\HTML_Academy\gallery page\style\img" />
+      <recent name="D:\Git\HTML_Academy\form page" />
+      <recent name="D:\Git\HTML_Academy\gallery page" />
+      <recent name="D:\Git\HTML_Academy\main page\fonts" />
+      <recent name="D:\Git\HTML_Academy\form page\style\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration name="build" type="js.build_tools.grunt" factoryName="Grunt.js" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="build" />
+      </tasks>
+      <envs />
+    </configuration>
+    <configuration name="clean" type="js.build_tools.grunt" factoryName="Grunt.js" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="clean" />
+      </tasks>
+      <envs />
+    </configuration>
+    <configuration name="copy" type="js.build_tools.grunt" factoryName="Grunt.js" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="copy" />
+      </tasks>
+      <envs />
+    </configuration>
+    <configuration name="csso" type="js.build_tools.grunt" factoryName="Grunt.js" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="csso" />
+      </tasks>
+      <envs />
+    </configuration>
+    <configuration name="main" type="js.build_tools.grunt" factoryName="Grunt.js" temporary="true">
+      <node-interpreter value="project" />
+      <gruntfile value="$PROJECT_DIR$/Gruntfile.js" />
+      <tasks>
+        <task value="main" />
+      </tasks>
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Grunt.js.copy" />
+      <item index="1" class="java.lang.String" itemvalue="Grunt.js.clean" />
+      <item index="2" class="java.lang.String" itemvalue="Grunt.js.build" />
+      <item index="3" class="java.lang.String" itemvalue="Grunt.js.main" />
+      <item index="4" class="java.lang.String" itemvalue="Grunt.js.csso" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Grunt.js.copy" />
+        <item index="1" class="java.lang.String" itemvalue="Grunt.js.clean" />
+        <item index="2" class="java.lang.String" itemvalue="Grunt.js.main" />
+        <item index="3" class="java.lang.String" itemvalue="Grunt.js.csso" />
+        <item index="4" class="java.lang.String" itemvalue="Grunt.js.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a6791d7-315f-49eb-856a-4465276b1cfd" name="Default" comment="" />
+      <created>1516087795613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516087795613</updated>
+      <workItem from="1516087797494" duration="14216000" />
+      <workItem from="1516181100458" duration="1569000" />
+      <workItem from="1516251571646" duration="1084000" />
+      <workItem from="1516261757053" duration="16861000" />
+      <workItem from="1516290738406" duration="4952000" />
+      <workItem from="1516335621226" duration="28060000" />
+      <workItem from="1516370744709" duration="6382000" />
+      <workItem from="1516382000818" duration="3315000" />
+      <workItem from="1516421873751" duration="505000" />
+      <workItem from="1516422749429" duration="697000" />
+      <workItem from="1516423825587" duration="3876000" />
+      <workItem from="1516433242991" duration="6670000" />
+      <workItem from="1516443002729" duration="5878000" />
+      <workItem from="1516455809551" duration="1936000" />
+      <workItem from="1516533740298" duration="655000" />
+      <workItem from="1516540386450" duration="4536000" />
+      <workItem from="1516551880440" duration="75000" />
+      <workItem from="1516553483864" duration="8621000" />
+      <workItem from="1516562755222" duration="7273000" />
+      <workItem from="1516603900334" duration="8920000" />
+      <workItem from="1516648596805" duration="722000" />
+      <workItem from="1516649772963" duration="2389000" />
+      <workItem from="1516795307292" duration="580000" />
+      <workItem from="1516795901578" duration="271000" />
+      <workItem from="1516796182650" duration="88000" />
+      <workItem from="1516796281671" duration="2702000" />
+      <workItem from="1516825075662" duration="1452000" />
+      <workItem from="1516895685062" duration="1735000" />
+      <workItem from="1516898062650" duration="5295000" />
+      <workItem from="1516903814446" duration="13152000" />
+      <workItem from="1516954499942" duration="1901000" />
+      <workItem from="1516979768413" duration="5547000" />
+      <workItem from="1517052603025" duration="570000" />
+      <workItem from="1517054291010" duration="2155000" />
+      <workItem from="1517131551650" duration="5035000" />
+      <workItem from="1517149058535" duration="597000" />
+      <workItem from="1517204469817" duration="28090000" />
+      <workItem from="1517295988455" duration="37600000" />
+      <workItem from="1517391932348" duration="32525000" />
+      <workItem from="1517506982128" duration="798000" />
+      <workItem from="1517532780591" duration="1117000" />
+      <workItem from="1517556330703" duration="2346000" />
+      <workItem from="1517587593038" duration="68000" />
+      <workItem from="1518070061131" duration="15775000" />
+      <workItem from="1518188110995" duration="12000" />
+      <workItem from="1518202076899" duration="18201000" />
+      <workItem from="1518286008674" duration="886000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="307690000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.5109489" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.4890511" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5252898" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22335601" sideWeight="0.47471023" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.48927614" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29705215" sideWeight="0.33996937" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14120126" sideWeight="0.33996937" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.48946258" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5252898" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31405896" sideWeight="0.47471023" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.276644" sideWeight="0.33996937" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.60495865" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.39504132" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.48946258" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.48927614" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14120126" sideWeight="0.33996937" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main page/Gruntfile.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main page/Gruntfile.js</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main page/Gruntfile.js</url>
+          <line>50</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main page/Gruntfile.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main page/Gruntfile.js</url>
+          <line>60</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main page/Gruntfile.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/main page/Gruntfile.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>69</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>106</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>82</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>58</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>90</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>36</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>109</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>110</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>131</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>143</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>163</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Gruntfile.js</url>
+          <line>46</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="71" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main page/package.json" />
+    <entry file="file://$PROJECT_DIR$/main page/Gruntfile.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/main.html" />
+    <entry file="file://$PROJECT_DIR$/img/subtitles.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/global/fonts.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/global/forms.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/global/layout.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/blocks/news.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/global/type.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/blocks/news.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/htmlacademy.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Programming/Gruntfile-до билда.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Programming/Gruntfile-самый первый.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/blocks/reviews.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/blocks/reviews.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/gallery/blocks/reviews.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5478">
+          <caret line="461" column="0" lean-forward="true" selection-start-line="461" selection-start-column="0" selection-end-line="461" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18216">
+          <caret line="936" column="18" lean-forward="false" selection-start-line="936" selection-start-column="18" selection-end-line="936" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/form.bundle.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="489" lean-forward="false" selection-start-line="0" selection-start-column="471" selection-end-line="0" selection-end-column="489" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/gallery/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/gallery/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/galery-bundle.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.bundle.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/animate.css" />
+    <entry file="file://$PROJECT_DIR$/less/gallery/blocks/page-header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/blocks/page-header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/blocks/page-header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2231">
+          <caret line="97" column="30" lean-forward="false" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1564">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/blocks/page-main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="276" column="45" lean-forward="false" selection-start-line="276" selection-start-column="45" selection-end-line="276" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="5" column="70" lean-forward="true" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/blocks/page-main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="364" column="9" lean-forward="false" selection-start-line="364" selection-start-column="9" selection-end-line="364" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/gallery/blocks/page-main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="104" column="15" lean-forward="false" selection-start-line="104" selection-start-column="15" selection-end-line="104" selection-end-column="15" />
+          <folding>
+            <element signature="e#10#1488#0" expanded="false" />
+            <element signature="e#24#1485#0" expanded="false" />
+            <element signature="e#1504#2353#0" expanded="false" />
+            <element signature="e#1525#1605#0" expanded="false" />
+            <element signature="e#1624#1727#0" expanded="false" />
+            <element signature="e#1744#1798#0" expanded="false" />
+            <element signature="e#1808#2218#0" expanded="false" />
+            <element signature="e#2369#5045#0" expanded="false" />
+            <element signature="e#2397#2506#0" expanded="false" />
+            <element signature="e#2530#2714#0" expanded="false" />
+            <element signature="e#2743#3306#0" expanded="false" />
+            <element signature="e#2834#3084#0" expanded="false" />
+            <element signature="e#3368#3870#0" expanded="false" />
+            <element signature="e#3385#3533#0" expanded="false" />
+            <element signature="e#3550#3593#0" expanded="false" />
+            <element signature="e#3894#4403#0" expanded="false" />
+            <element signature="e#3911#4063#0" expanded="false" />
+            <element signature="e#4080#4123#0" expanded="false" />
+            <element signature="e#4446#4598#0" expanded="false" />
+            <element signature="e#4615#4658#0" expanded="false" />
+            <element signature="e#5114#6499#0" expanded="false" />
+            <element signature="e#5155#5921#0" expanded="false" />
+            <element signature="e#5935#6488#0" expanded="false" />
+            <element signature="e#5961#6265#0" expanded="false" />
+            <element signature="e#6157#6197#0" expanded="false" />
+            <element signature="e#6215#6255#0" expanded="false" />
+            <element signature="e#6287#6451#0" expanded="false" />
+            <element signature="e#6507#11455#0" expanded="false" />
+            <element signature="e#6519#6553#0" expanded="false" />
+            <element signature="e#6569#7092#0" expanded="false" />
+            <element signature="e#6592#7037#0" expanded="false" />
+            <element signature="e#6617#6735#0" expanded="false" />
+            <element signature="e#6758#6816#0" expanded="false" />
+            <element signature="e#6830#6947#0" expanded="false" />
+            <element signature="e#7108#7665#0" expanded="false" />
+            <element signature="e#7683#8237#0" expanded="false" />
+            <element signature="e#8254#8788#0" expanded="false" />
+            <element signature="e#8836#8869#0" expanded="false" />
+            <element signature="e#8895#8930#0" expanded="false" />
+            <element signature="e#8961#9650#0" expanded="false" />
+            <element signature="e#8979#9405#0" expanded="false" />
+            <element signature="e#9685#11361#0" expanded="false" />
+            <element signature="e#11501#12964#0" expanded="false" />
+            <element signature="e#11544#12356#0" expanded="false" />
+            <element signature="e#11562#11862#0" expanded="false" />
+            <element signature="e#12371#12954#0" expanded="false" />
+            <element signature="e#12595#12635#0" expanded="false" />
+            <element signature="e#12654#12694#0" expanded="false" />
+            <element signature="e#12973#18994#0" expanded="false" />
+            <element signature="e#12985#13019#0" expanded="false" />
+            <element signature="e#13035#13814#0" expanded="false" />
+            <element signature="e#13083#13201#0" expanded="false" />
+            <element signature="e#13224#13318#0" expanded="false" />
+            <element signature="e#13352#13427#0" expanded="false" />
+            <element signature="e#13830#14632#0" expanded="false" />
+            <element signature="e#13853#14557#0" expanded="false" />
+            <element signature="e#13878#13996#0" expanded="false" />
+            <element signature="e#14019#14112#0" expanded="false" />
+            <element signature="e#14126#14364#0" expanded="false" />
+            <element signature="e#14146#14221#0" expanded="false" />
+            <element signature="e#14650#15452#0" expanded="false" />
+            <element signature="e#14698#14816#0" expanded="false" />
+            <element signature="e#14839#14932#0" expanded="false" />
+            <element signature="e#14946#15184#0" expanded="false" />
+            <element signature="e#14966#15041#0" expanded="false" />
+            <element signature="e#15469#16271#0" expanded="false" />
+            <element signature="e#15517#15635#0" expanded="false" />
+            <element signature="e#15658#15751#0" expanded="false" />
+            <element signature="e#15765#16003#0" expanded="false" />
+            <element signature="e#15785#15860#0" expanded="false" />
+            <element signature="e#16289#18950#0" expanded="false" />
+            <element signature="e#16319#16377#0" expanded="false" />
+            <element signature="e#16403#16441#0" expanded="false" />
+            <element signature="e#16472#17190#0" expanded="false" />
+            <element signature="e#16490#16918#0" expanded="false" />
+            <element signature="e#16934#17155#0" expanded="false" />
+            <element signature="e#17225#18901#0" expanded="false" />
+            <element signature="e#17256#17735#0" expanded="false" />
+            <element signature="e#17275#17432#0" expanded="false" />
+            <element signature="e#17761#18246#0" expanded="false" />
+            <element signature="e#17780#17940#0" expanded="false" />
+            <element signature="e#18274#18760#0" expanded="false" />
+            <element signature="e#18293#18453#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/gallery/blocks/main-nav.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#1073#0" expanded="false" />
+            <element signature="e#107#185#0" expanded="false" />
+            <element signature="e#214#303#0" expanded="false" />
+            <element signature="e#318#592#0" expanded="false" />
+            <element signature="e#596#933#0" expanded="false" />
+            <element signature="e#739#795#0" expanded="false" />
+            <element signature="e#1192#1220#0" expanded="false" />
+            <element signature="e#1332#1382#0" expanded="false" />
+            <element signature="e#1398#1434#0" expanded="false" />
+            <element signature="e#1453#1563#0" expanded="false" />
+            <element signature="e#1582#1690#0" expanded="false" />
+            <element signature="e#1712#1784#0" expanded="false" />
+            <element signature="e#1799#1871#0" expanded="false" />
+            <element signature="e#1892#1964#0" expanded="false" />
+            <element signature="e#2228#3202#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/blocks/main-nav.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#1073#0" expanded="false" />
+            <element signature="e#107#185#0" expanded="false" />
+            <element signature="e#214#303#0" expanded="false" />
+            <element signature="e#318#592#0" expanded="false" />
+            <element signature="e#596#933#0" expanded="false" />
+            <element signature="e#739#795#0" expanded="false" />
+            <element signature="e#1192#1220#0" expanded="false" />
+            <element signature="e#1332#1382#0" expanded="false" />
+            <element signature="e#1398#1434#0" expanded="false" />
+            <element signature="e#1453#1563#0" expanded="false" />
+            <element signature="e#1582#1690#0" expanded="false" />
+            <element signature="e#1712#1784#0" expanded="false" />
+            <element signature="e#1799#1871#0" expanded="false" />
+            <element signature="e#1892#1964#0" expanded="false" />
+            <element signature="e#2228#3202#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/blocks/main-nav.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="58" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#1073#0" expanded="false" />
+            <element signature="e#107#185#0" expanded="false" />
+            <element signature="e#214#303#0" expanded="false" />
+            <element signature="e#318#592#0" expanded="false" />
+            <element signature="e#596#933#0" expanded="false" />
+            <element signature="e#739#795#0" expanded="false" />
+            <element signature="e#1192#1220#0" expanded="false" />
+            <element signature="e#1332#1382#0" expanded="false" />
+            <element signature="e#1398#1434#0" expanded="false" />
+            <element signature="e#1453#1563#0" expanded="false" />
+            <element signature="e#1582#1690#0" expanded="false" />
+            <element signature="e#1712#1784#0" expanded="false" />
+            <element signature="e#1799#1871#0" expanded="false" />
+            <element signature="e#1892#1964#0" expanded="false" />
+            <element signature="e#2228#3202#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/form/blocks/page-footer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/main/blocks/page-footer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/gallery/blocks/page-footer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1667">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <element signature="e#436#748#0" expanded="false" />
+            <element signature="e#1316#1550#0" expanded="false" />
+            <element signature="e#2176#2441#0" expanded="false" />
+            <element signature="e#2460#2731#0" expanded="false" />
+            <element signature="e#2750#2921#0" expanded="false" />
+            <element signature="e#2773#2911#0" expanded="false" />
+            <element signature="e#2937#3399#0" expanded="false" />
+            <element signature="e#3415#3455#0" expanded="false" />
+            <element signature="e#3476#4227#0" expanded="false" />
+            <element signature="e#4246#4588#0" expanded="false" />
+            <element signature="e#4605#5158#0" expanded="false" />
+            <element signature="e#5175#5363#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
