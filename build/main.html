@@ -8,7 +8,7 @@
 	<title>Title</title>
 </head>
 <body>
-	<div class="menu-header">
+	<div class="menu-header menu__header--close">
 	<ul class="menu">
 		<div class="menu__block-1">
 			<li class="menu__item"><a href="#head">ГЛАВНАЯ</a><a class="menu__close"  href="https://www.google.com"></a></li>
@@ -22,13 +22,14 @@
 	</div>
 	<header class="head">
 		<a href="#" class="head__logo">
-			<picture>
+			<picture class="head__logo-all">
 				<source srcset="img/logotype-desktop.png" media="(min-width: 1024px)">
 				<source srcset="img/logotyle-mobile.svg">
 				<img src="img/logotyle-mobile.svg" alt="Logo">
 			</picture>
-			</a>
-		<a class="head__menu" name="head" href="#"></a>
+			<img class="head__logo-ie" src="img/logotype-desktop.png">
+		</a>
+		<a class="head__menu" href="#" name="head"></a>
 	</header>
 	<main class="main">
 		<div class="main__wrapper">

@@ -7,7 +7,7 @@
 	<title>Title</title>
 </head>
 <body>
-<div class="menu-header">
+<div class="menu-header menu__header--close">
 	<ul class="menu">
 		<div class="menu__block-1">
 			<li class="menu__item"><a href="main.html">ГЛАВНАЯ</a><a class="menu__close"  href="https://www.google.com"></a></li>
@@ -21,11 +21,12 @@
 </div>
 <header class="head">
 	<a href="#" class="head__logo">
-      <picture>
+      <picture class="head__logo-all">
           <source srcset="img/logotype-desktop.png" media="(min-width: 1024px)">
           <source srcset="img/logotyle-mobile.svg">
-          <img srcset="img/logotyle-mobile.svg" alt="Logo">
+          <img src="img/logotyle-mobile.svg" alt="Logo">
       </picture>
+		<img class="head__logo-ie" src="img/logotype-desktop.png">
   </a>
 	<a class="head__menu" href="#" name="head"></a>
 </header>
@@ -41,11 +42,13 @@
 	</div>
 	<div class="main">
 		<div class="photo photo__one">
-			<picture class="photo__img">
+			<picture class="photo__img-all">
 				<source srcset="img/photo-1-desktop.jpg" media="(min-width: 1024px)">
 				<source srcset="img/photo-1-tablet.jpg" media="(min-width: 768px)">
 				<img src="img/photo-1-mobile.jpg" alt="Logo">
 			</picture>
+			<img  class="photo__img-ie" src="img/photo-1-tablet.jpg">
+			<img  class="photo__img-ie_max" src="img/photo-1-desktop.jpg">
 			<div class="photo__wrapper">
 				<h3 class="photo__caption">НЕРОДНЫЕ ПРОСТОРЫ</h3>
 				<p class="photo__author">Автор фото: Борис</p>
@@ -54,11 +57,13 @@
 			</div>
 		</div>
 		<div class="photo photo__two">
-			<picture class="photo__img">
+			<picture class="photo__img-all">
 				<source srcset="img/photo-2-desktop.jpg" media="(min-width: 1024px)">
 				<source srcset="img/photo-2-tablet.jpg" media="(min-width: 768px)">
 				<img src="img/photo-2-mobile.jpg" alt="Logo">
 			</picture>
+			<img  class="photo__img-ie" src="img/photo-2-tablet.jpg">
+			<img  class="photo__img-ie_max" src="img/photo-2-desktop.jpg">
 			<div class="photo__wrapper">
 				<h3 class="photo__caption">МЕСТНАЯ РАСТИТЕЛЬНОСТЬ</h3>
 				<p class="photo__author">Автор фото: Сергей</p>
@@ -67,11 +72,13 @@
 			</div>
 		</div>
 		<div class="photo photo__three">
-			<picture class="photo__img">
+			<picture class="photo__img-all">
 				<source srcset="img/photo-3-desktop.jpg" media="(min-width: 1024px)">
 				<source srcset="img/photo-3-tablet.jpg" media="(min-width: 768px)">
 				<img src="img/photo-3-mobile.jpg" alt="Logo">
 			</picture>
+			<img  class="photo__img-ie" src="img/photo-3-tablet.jpg">
+			<img  class="photo__img-ie_max" src="img/photo-3-desktop.jpg">
 			<div class="photo__wrapper">
 				<h3 class="photo__caption">ДОРОГА НА СЕВЕР</h3>
 				<p class="photo__author">Автор фото: Петр</p>
@@ -80,11 +87,13 @@
 			</div>
 		</div>
 		<div class="photo photo__four">
-			<picture class="photo__img">
+			<picture class="photo__img-all">
 				<source srcset="img/photo-4-desktop.jpg" media="(min-width: 1024px)">
 				<source srcset="img/photo-4-tablet.jpg" media="(min-width: 768px)">
 				<img src="img/photo-4-mobile.jpg" alt="Logo">
 			</picture>
+			<img  class="photo__img-ie" src="img/photo-4-tablet.jpg">
+			<img  class="photo__img-ie_max" src="img/photo-4-desktop.jpg">
 			<div class="photo__wrapper">
 				<h3 class="photo__caption">МОСТ ДЬЯВОЛА</h3>
 				<p class="photo__author">Автор фото: Антон</p>
@@ -96,11 +105,13 @@
 			<h2 class="video-player__caption">ВСЕ ЕЩЕ СОМНЕВАЕТЕСЬ?</h2>
 			<p class="video-player__text">СМОТРИТЕ ВИДЕОПРЕЗЕНТАЦИЮ И СКОРЕЕ ЗА БИЛЕТАМИ, ПОКА ОНИ НЕ ПОДОРОЖАЛИ В ОЧЕРЕДНОЙ РАЗ!</p>
 			<div class="video-player__video-box">
-				<picture class="video__img">
+				<picture class="video__img-all">
 					<source srcset="img/video-desktop.jpg" media="(min-width: 1024px)">
 					<source srcset="img/video-tablet.jpg" media="(min-width: 768px)">
 					<img src="img/video-mobile.jpg" alt="Logo">
 				</picture>
+				<img class="video__img-ie" src="img/video-tablet.jpg" alt="Logo">
+				<img class="video__img-ie_max" src="img/video-desktop.jpg" alt="Logo">
 			</div>
 			<div class="video-player__control-panel">
 			<a class="video-player__replay" href=""></a>
@@ -108,6 +119,7 @@
 			<a class="video-player__size" href=""></a>
 		</div>
 </div>
+	</div>
 </main>
 	<footer class="footer">
 	<h2 class="footer__caption">#VISITSEDONA</h2>

@@ -6,25 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="1a6791d7-315f-49eb-856a-4465276b1cfd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/form.bundle.min.css" afterPath="$PROJECT_DIR$/css/form.bundle.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/form.css" afterPath="$PROJECT_DIR$/css/form.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/galery-bundle.min.css" afterPath="$PROJECT_DIR$/css/galery-bundle.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/gallery.css" afterPath="$PROJECT_DIR$/css/gallery.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.bundle.min.css" afterPath="$PROJECT_DIR$/css/main.bundle.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/form.html" afterPath="$PROJECT_DIR$/form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Form.js" afterPath="$PROJECT_DIR$/js/Form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/Gallery.js" afterPath="$PROJECT_DIR$/js/Gallery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/form/blocks/page-header.less" afterPath="$PROJECT_DIR$/less/form/blocks/page-header.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/form/blocks/page-main.less" afterPath="$PROJECT_DIR$/less/form/blocks/page-main.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/gallery/blocks/page-footer.less" afterPath="$PROJECT_DIR$/less/gallery/blocks/page-footer.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/gallery/blocks/page-header.less" afterPath="$PROJECT_DIR$/less/gallery/blocks/page-header.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/gallery/blocks/page-main.less" afterPath="$PROJECT_DIR$/less/gallery/blocks/page-main.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/main/blocks/page-header.less" afterPath="$PROJECT_DIR$/less/main/blocks/page-header.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.html" afterPath="$PROJECT_DIR$/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/form.bundle.min.css" afterPath="$PROJECT_DIR$/build/css/form.bundle.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/galery-bundle.min.css" afterPath="$PROJECT_DIR$/build/css/galery-bundle.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/main.bundle.min.css" afterPath="$PROJECT_DIR$/build/css/main.bundle.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/form.html" afterPath="$PROJECT_DIR$/build/form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/gallery.html" afterPath="$PROJECT_DIR$/build/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/Form.js" afterPath="$PROJECT_DIR$/build/js/Form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/Gallery.js" afterPath="$PROJECT_DIR$/build/js/Gallery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.js" afterPath="$PROJECT_DIR$/build/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/main.html" afterPath="$PROJECT_DIR$/build/main.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -261,7 +251,7 @@
         <entry file="file://$PROJECT_DIR$/main.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="4" column="56" lean-forward="true" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+              <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -639,9 +629,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Grunt.js.main" />
-        <item index="1" class="java.lang.String" itemvalue="Grunt.js.copy" />
-        <item index="2" class="java.lang.String" itemvalue="Grunt.js.clean" />
+        <item index="0" class="java.lang.String" itemvalue="Grunt.js.copy" />
+        <item index="1" class="java.lang.String" itemvalue="Grunt.js.clean" />
+        <item index="2" class="java.lang.String" itemvalue="Grunt.js.main" />
         <item index="3" class="java.lang.String" itemvalue="Grunt.js.csso" />
         <item index="4" class="java.lang.String" itemvalue="Grunt.js.build" />
       </list>
@@ -706,12 +696,12 @@
       <workItem from="1518286008674" duration="886000" />
       <workItem from="1519320024248" duration="14361000" />
       <workItem from="1519418024501" duration="23000" />
-      <workItem from="1519669569796" duration="31000" />
+      <workItem from="1519669569796" duration="950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="322105000" />
+    <option name="totallyTimeSpent" value="323024000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -724,25 +714,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.49546486" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.4948905" order="2" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.50453514" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13962065" sideWeight="0.5051095" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5252898" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22335601" sideWeight="0.47471023" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.48927614" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29705215" sideWeight="0.33996937" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14120126" sideWeight="0.33996937" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22335601" sideWeight="0.47471023" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.48946258" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1404,7 +1393,7 @@
     <entry file="file://$PROJECT_DIR$/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="56" lean-forward="true" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+          <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
