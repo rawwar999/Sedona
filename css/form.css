@@ -127,6 +127,9 @@
   display: inline-block;
   margin-left: 110px;
 }
+.head .head__logo .head__logo-ie {
+  display: none;
+}
 .head .head__menu {
   display: inline-block;
   width: 23px;
@@ -772,7 +775,7 @@ body {
     height: 1px;
     background-color: #dbdbdb;
     left: 60px;
-    top: 905px;
+    top: 15px;
   }
   .main .form .form__contact .form__caption:after {
     content: '';
@@ -781,7 +784,7 @@ body {
     height: 1px;
     background-color: #dbdbdb;
     left: 585px;
-    top: 905px;
+    top: 15px;
   }
   .main .form .form__contact .form__phone {
     width: 648px;
@@ -929,6 +932,20 @@ body {
   }
   body {
     width: 768px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) and screen and (-ms-high-contrast: active), (min-width: 768px) and (max-width: 1024px) and (-ms-high-contrast: none) {
+  .main .form .form__contact:before {
+    top: 191px;
+  }
+  .main .form .form__visited label:last-of-type {
+    margin-right: 0px;
+  }
+  .main .form .form__comment .form__caption:before {
+    top: 1565px;
+  }
+  .main .form .form__comment .form__caption:after {
+    top: 1565px;
   }
 }
 @media (min-width: 1024px) {
@@ -1129,8 +1146,8 @@ body {
     width: 125px;
     height: 1px;
     background-color: #dbdbdb;
-    left: 840px;
-    top: 980px;
+    left: 800px;
+    top: 15px;
   }
   .main .form .form__contact .form__caption:after {
     content: '';
@@ -1138,8 +1155,8 @@ body {
     width: 125px;
     height: 1px;
     background-color: #dbdbdb;
-    left: 300px;
-    top: 980px;
+    left: 270px;
+    top: 15px;
   }
   .main .form .form__contact .form__phone {
     width: 315px;
@@ -1298,6 +1315,20 @@ body {
     width: 1200px;
     border-left: 40px solid #f2f2f2;
     border-right: 40px solid #f2f2f2;
+  }
+}
+@media (min-width: 1024px) and screen and (-ms-high-contrast: active), (min-width: 1024px) and (-ms-high-contrast: none) {
+  .head .head__logo .head__logo-all {
+    display: none;
+  }
+  .head .head__logo .head__logo-ie {
+    display: inline;
+  }
+  .main .form .form__contact:after {
+    left: 465px;
+  }
+  .main .form .form__contact:before {
+    left: 1042px;
   }
 }
 

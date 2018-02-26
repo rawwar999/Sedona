@@ -102,6 +102,38 @@
     padding-bottom: 15px;
     padding-top: 5px;
   }
+  .photo__one{
+    .photo__img-ie{
+      display: none;
+      }
+    .photo__img-ie_max{
+      display: none;
+    }
+    }
+  .photo__two{
+    .photo__img-ie{
+      display: none;
+    }
+    .photo__img-ie_max{
+      display: none;
+    }
+  }
+  .photo__three{
+    .photo__img-ie{
+      display: none;
+    }
+    .photo__img-ie_max{
+      display: none;
+    }
+  }
+  .photo__four{
+    .photo__img-ie{
+      display: none;
+    }
+    .photo__img-ie_max{
+      display: none;
+    }
+  }
   .video-player{
     .video-player__caption{
       font-size: 18px;
@@ -120,6 +152,13 @@
 
     }
     .video-player__video-box{
+      .video__img-all{}
+      .video__img-ie{
+        display: none;
+      }
+      .video__img-ie_max{
+        display: none;
+      }
       position: relative;
       margin-bottom: -3px;
       display: block;
@@ -207,7 +246,6 @@
       background-color: #f2f2f2;
       margin-left: 20px;
     }
-
   }
 }
 
@@ -273,6 +311,19 @@
       border-bottom: none;
     }
     .photo__one{
+      .photo__img-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: inline;
+        }
+      }
+      .photo__img-ie_max{
+        display: none;
+      }
       .photo__wrapper{
         .photo__caption{
           margin: 0;
@@ -298,6 +349,19 @@
       padding-bottom:0;
     }
     .photo__two{
+      .photo__img-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: inline;
+        }
+      }
+      .photo__img-ie_max{
+        display: none;
+      }
       .photo__wrapper{
         .photo__caption{
           margin: 0;
@@ -325,6 +389,19 @@
       padding-bottom:0;
     }
     .photo__three{
+      .photo__img-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: inline;
+        }
+      }
+      .photo__img-ie_max{
+        display: none;
+      }
       .photo__wrapper{
         .photo__caption{
           margin: 0;
@@ -353,6 +430,19 @@
 
     }
     .photo__four{
+      .photo__img-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: inline;
+        }
+      }
+      .photo__img-ie_max{
+        display: none;
+      }
       .photo__wrapper{
         .photo__caption{
           margin: 0;
@@ -386,6 +476,21 @@
         padding: 0 140px;
       }
       .video-player__video-box{
+        .video__img-all{
+          @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+            display: none;
+          }
+        }
+        .video__img-ie{
+          @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+            display: inline;
+          }
+        }
+        .video__img-ie_max{
+          @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+            display: none;
+          }
+        }
         &:before{
           content: '';
           width: 389px;
@@ -471,7 +576,6 @@
       }
       margin-left:60px;
       width: 100%;
-
     }
     display: flex;
     flex-wrap: wrap;
@@ -541,6 +645,19 @@
       border-bottom: none;
     }
     .photo__one{
+      .photo__img-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie{
+        display: none;
+      }
+      .photo__img-ie_max{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: inline;
+        }
+      }
       .photo__wrapper{
         .photo__caption{
           margin: 0;
@@ -577,6 +694,21 @@
       padding-bottom:0;
     }
     .photo__two{
+      .photo__img-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie_max{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: inline;
+        }
+      }
       .photo__wrapper{
         .photo__caption{
           margin: 0;
@@ -615,6 +747,21 @@
       padding-bottom:0;
     }
     .photo__three{
+      .photo__img-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie_max{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: inline;
+        }
+      }
       .photo__wrapper{
         .photo__caption{
           margin: 0;
@@ -653,6 +800,21 @@
       padding-bottom:0;
     }
     .photo__four{
+      .photo__img-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: none;
+        }
+      }
+      .photo__img-ie_max{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+          display: inline;
+        }
+      }
       .photo__wrapper{
         .photo__caption{
           margin: 0;
@@ -699,6 +861,21 @@
         padding: 15px 350px;
       }
       .video-player__video-box{
+        .video__img-all{
+          @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+            display: none;
+          }
+        }
+        .video__img-ie{
+          @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+            display: none;
+          }
+        }
+        .video__img-ie_max{
+          @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none)  {
+            display: inline;
+          }
+        }
         &:before{
           content: '';
           width: 542px;

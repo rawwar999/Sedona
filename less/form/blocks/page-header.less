@@ -1,5 +1,8 @@
 .head{
   .head__logo{
+    .head__logo-ie{
+    display: none;
+  }
     display:inline-block;
     margin-left: 110px;
   }
@@ -38,6 +41,16 @@
 @media (min-width : 1024px){
   .head{
     .head__logo{
+      .head__logo-all{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+          display: none;
+        }
+      }
+      .head__logo-ie{
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+          display: inline;
+        }
+      }
       position: absolute;
       top:0px;
       left:550px;

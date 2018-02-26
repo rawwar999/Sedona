@@ -21,8 +21,8 @@
 }
 .menu .menu__close {
   display: inline-block;
-  width: 23px;
-  height: 22px;
+  width: 24px;
+  height: 24px;
   background-image: url(../img/icon-cross.png);
   background-repeat: no-repeat;
   background-position: center;
@@ -46,6 +46,13 @@
 .menu a:disabled {
   color: #ffffff;
   background-color: #e5e5e5;
+}
+.menu a:active {
+  background: #5496bd;
+  color: #81b2ce;
+}
+.menu__header--close {
+  display: none;
 }
 
 
@@ -78,20 +85,14 @@
 .footer .social .social__youtube:hover {
   background-color: #669ec0;
 }
-.footer .social .social__twiter:active,
-.footer .social .social__facebook:active,
-.footer .social .social__youtube:active {
-  -webkit-filter: brightness(75%);
-          filter: brightness(75%);
-}
 .footer .social .social__facebook {
-  background-image: url("../img/icon-facebook.png");
+  background-image: url(../img/icon-facebook.png);
 }
 .footer .social .social__twiter {
-  background-image: url("../img/icon-twitter.png");
+  background-image: url(../img/icon-twitter.png);
 }
 .footer .social .social__youtube {
-  background-image: url("../img/icon-youtube.png");
+  background-image: url(../img/icon-youtube.png);
 }
 .footer .academy__caption {
   font-size: 14px;
@@ -104,7 +105,7 @@
 }
 .footer .academy__logo {
   display: inline-block;
-  background-image: url(../img/htmlacademy.svg);
+  background-image: url(../img/htmlacademy.png);
   background-repeat: no-repeat;
   background-position: center;
   width: 27px;
@@ -117,11 +118,6 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.footer .academy__logo:active {
-  background-image: url(../img/htmlacademy-down.png);
-  background-repeat: no-repeat;
-  background-position: center;
-}
 
 .head {
   width: 100%;
@@ -130,6 +126,9 @@
 .head .head__logo {
   display: inline-block;
   margin-left: 110px;
+}
+.head .head__logo .head__logo-ie {
+  display: none;
 }
 .head .head__menu {
   display: inline-block;
@@ -572,6 +571,9 @@ body {
     background-color: transparent;
     color: #604e43;
   }
+  .menu__header--close {
+    display: block;
+  }
   .footer {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -880,6 +882,9 @@ body {
     background-color: transparent;
     color: #604e43;
   }
+  .menu__header--close {
+    display: block;
+  }
   .footer {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1136,6 +1141,14 @@ body {
     width: 1200px;
     border-left: 40px solid #f2f2f2;
     border-right: 40px solid #f2f2f2;
+  }
+}
+@media (min-width: 1024px) and screen and (-ms-high-contrast: active), (min-width: 1024px) and (-ms-high-contrast: none) {
+  .head .head__logo .head__logo-all {
+    display: none;
+  }
+  .head .head__logo .head__logo-ie {
+    display: inline;
   }
 }
 

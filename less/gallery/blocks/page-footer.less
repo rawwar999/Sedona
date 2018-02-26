@@ -62,7 +62,11 @@
 }
 
 @media (min-width : 768px) and (max-width : 1024px) {
+
   .footer {
+    @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none){
+      margin-left: 30px;
+    }
     .footer__caption {
       width: auto;
       margin-bottom: 10px;
@@ -84,6 +88,10 @@
 
 @media (min-width : 1024px){
   .footer{
+    @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none){
+      margin-left: 100px;
+    }
+
     .footer__caption{
       width: auto;
       margin-bottom: 10px;

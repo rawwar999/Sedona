@@ -4,9 +4,9 @@ module.exports = function(grunt) {
         less: {
             compileLESS: {
                 files: {
-                     'css/main.css': 'less/main/**/*.less'  /// for "MAIN"
-                  //     './css/form.css': './less/form/**/*.less'  /// for "FORM"
-                  //     './css/gallery.css': './less/gallery/**/*.less'  /// FOR "GALLERY"
+                  //    'css/main.css': 'less/main/**/*.less'  /// for "MAIN"
+                  //   './css/form.css': './less/form/**/*.less'  /// for "FORM"
+                       './css/gallery.css': './less/gallery/**/*.less'  /// FOR "GALLERY"
                 }
             }
         },
@@ -24,9 +24,9 @@ module.exports = function(grunt) {
         },
         watch: {
             watchLESS: {
-                 files: ['less/main/**/*.less'], // смотерть "MAIN"
-              //   files: ['less/form/**/*.less'], // смотерть "FORM"
-              //     files: ['less/gallery/**/*.less'], // смотерть "GALLERY"
+              //    files: ['less/main/**/*.less'], // смотерть "MAIN"
+              //    files: ['less/form/**/*.less'], // смотерть "FORM"
+                    files: ['less/gallery/**/*.less'], // смотерть "GALLERY"
                 tasks: ["less","postcss","csso"],
                 options: {
                     livereload: true
@@ -50,9 +50,9 @@ module.exports = function(grunt) {
                     report:'min'
                 },
                 files:{
-                    'css/main.bundle.min.css': ['css/main.css','css/normalize.css']    // обьеденяет и минифицирует "MAIN"
+                  //  'css/main.bundle.min.css': ['css/main.css','css/normalize.css']    // обьеденяет и минифицирует "MAIN"
                   //   './css/form.bundle.min.css': ['css/form.css', 'css/normalize.css'] // обьеденяет и минифицирует "FORM"
-                  //   './css/galery-bundle.min.css': ['css/gallery.css', 'css/normalize.css'] // обьеденяет и минифицирует "GALLERY"
+                    './css/galery-bundle.min.css': ['css/gallery.css', 'css/normalize.css'] // обьеденяет и минифицирует "GALLERY"
                 }
             }
         },

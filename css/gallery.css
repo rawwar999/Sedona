@@ -127,6 +127,9 @@
   display: inline-block;
   margin-left: 110px;
 }
+.head .head__logo .head__logo-ie {
+  display: none;
+}
 .head .head__menu {
   display: inline-block;
   width: 23px;
@@ -241,6 +244,30 @@
   top: -3px;
   left: 5%;
 }
+.main .photo__one .photo__img-ie {
+  display: none;
+}
+.main .photo__one .photo__img-ie_max {
+  display: none;
+}
+.main .photo__two .photo__img-ie {
+  display: none;
+}
+.main .photo__two .photo__img-ie_max {
+  display: none;
+}
+.main .photo__three .photo__img-ie {
+  display: none;
+}
+.main .photo__three .photo__img-ie_max {
+  display: none;
+}
+.main .photo__four .photo__img-ie {
+  display: none;
+}
+.main .photo__four .photo__img-ie_max {
+  display: none;
+}
 .main .video-player .video-player__caption {
   font-size: 18px;
   line-height: 26px;
@@ -260,6 +287,12 @@
   position: relative;
   margin-bottom: -3px;
   display: block;
+}
+.main .video-player .video-player__video-box .video__img-ie {
+  display: none;
+}
+.main .video-player .video-player__video-box .video__img-ie_max {
+  display: none;
 }
 .main .video-player .video-player__video-box:before {
   content: '';
@@ -526,6 +559,9 @@ body {
     margin-left: 60px;
     padding-bottom: 0;
   }
+  .main .photo__one .photo__img-ie_max {
+    display: none;
+  }
   .main .photo__one .photo__wrapper {
     height: 80px;
     margin-top: -3px;
@@ -551,6 +587,9 @@ body {
     margin-left: 60px;
     margin-top: -4px;
     padding-bottom: 0;
+  }
+  .main .photo__two .photo__img-ie_max {
+    display: none;
   }
   .main .photo__two .photo__wrapper {
     height: 80px;
@@ -578,6 +617,9 @@ body {
     margin-left: 0;
     margin-top: -4px;
   }
+  .main .photo__three .photo__img-ie_max {
+    display: none;
+  }
   .main .photo__three .photo__wrapper {
     height: 80px;
     margin-top: -3px;
@@ -602,6 +644,9 @@ body {
   .main .photo__four {
     margin-top: -5px;
     margin-left: 60px;
+  }
+  .main .photo__four .photo__img-ie_max {
+    display: none;
   }
   .main .photo__four .photo__wrapper {
     height: 80px;
@@ -715,6 +760,44 @@ body {
   }
   body {
     width: 768px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) and screen and (-ms-high-contrast: active), (min-width: 768px) and (max-width: 1024px) and (-ms-high-contrast: none) {
+  .footer {
+    margin-left: 30px;
+  }
+  .main .photo__one .photo__img-all {
+    display: none;
+  }
+  .main .photo__one .photo__img-ie {
+    display: inline;
+  }
+  .main .photo__two .photo__img-all {
+    display: none;
+  }
+  .main .photo__two .photo__img-ie {
+    display: inline;
+  }
+  .main .photo__three .photo__img-all {
+    display: none;
+  }
+  .main .photo__three .photo__img-ie {
+    display: inline;
+  }
+  .main .photo__four .photo__img-all {
+    display: none;
+  }
+  .main .photo__four .photo__img-ie {
+    display: inline;
+  }
+  .main .video-player .video-player__video-box .video__img-all {
+    display: none;
+  }
+  .main .video-player .video-player__video-box .video__img-ie {
+    display: inline;
+  }
+  .main .video-player .video-player__video-box .video__img-ie_max {
+    display: none;
   }
 }
 @media (min-width: 1024px) {
@@ -884,6 +967,9 @@ body {
   .main .photo__one {
     margin-left: 0;
     padding-bottom: 0;
+  }
+  .main .photo__one .photo__img-ie {
+    display: none;
   }
   .main .photo__one .photo__wrapper {
     color: #ffffff;
@@ -1117,6 +1203,59 @@ body {
     width: 1200px;
     border-left: 40px solid #f2f2f2;
     border-right: 40px solid #f2f2f2;
+  }
+}
+@media (min-width: 1024px) and screen and (-ms-high-contrast: active), (min-width: 1024px) and (-ms-high-contrast: none) {
+  .footer {
+    margin-left: 100px;
+  }
+  .head .head__logo .head__logo-all {
+    display: none;
+  }
+  .head .head__logo .head__logo-ie {
+    display: inline;
+  }
+  .main .photo__one .photo__img-all {
+    display: none;
+  }
+  .main .photo__one .photo__img-ie_max {
+    display: inline;
+  }
+  .main .photo__two .photo__img-all {
+    display: none;
+  }
+  .main .photo__two .photo__img-ie {
+    display: none;
+  }
+  .main .photo__two .photo__img-ie_max {
+    display: inline;
+  }
+  .main .photo__three .photo__img-all {
+    display: none;
+  }
+  .main .photo__three .photo__img-ie {
+    display: none;
+  }
+  .main .photo__three .photo__img-ie_max {
+    display: inline;
+  }
+  .main .photo__four .photo__img-all {
+    display: none;
+  }
+  .main .photo__four .photo__img-ie {
+    display: none;
+  }
+  .main .photo__four .photo__img-ie_max {
+    display: inline;
+  }
+  .main .video-player .video-player__video-box .video__img-all {
+    display: none;
+  }
+  .main .video-player .video-player__video-box .video__img-ie {
+    display: none;
+  }
+  .main .video-player .video-player__video-box .video__img-ie_max {
+    display: inline;
   }
 }
 
